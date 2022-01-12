@@ -53,6 +53,26 @@
           <option name="language" value="" />
           <option name="generateVisitor" value="true" />
         </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/main/java/L3/CmmLexer.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="D:\DATA\Program\Compilers-Principles\Lab\Compilers-Lab\compilers-antlr\src\main\java" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="L3" />
+          <option name="language" value="" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/main/java/L3/CmmParser.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="D:\DATA\Program\Compilers-Principles\Lab\Compilers-Lab\compilers-antlr\src\main\java" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="L3" />
+          <option name="language" value="" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
       </list>
     </option>
   </component>
